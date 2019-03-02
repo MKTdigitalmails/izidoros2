@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Construções Izidoros",
-    "currentPage": "index.html",
+    "currentPage": "reconstrucao_moradia.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -3538,30 +3538,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/7-min-2-2000x1333.png",
                 "thumb": "@PROJECT_PATH@/assets/images/7-min-2-2000x1333-800x533.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Depois",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/8-min-2000x1333.png",
-                "thumb": "@PROJECT_PATH@/assets/images/8-min-2000x1333-800x533.png",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Depois",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/8-min-2000x1333.png",
-                "thumb": "@PROJECT_PATH@/assets/images/8-min-2000x1333-800x533.png",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
