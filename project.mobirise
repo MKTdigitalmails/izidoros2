@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Construções Izidoros",
-    "currentPage": "index.html",
+    "currentPage": "reconstrucao_moradia.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -499,7 +499,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/9-min-1-2000x1333-800x533.png",
                 "image": "@PROJECT_PATH@/assets/images/9-min-1-2000x1333.png",
-                "caption": "<a href=\"page19.html\" class=\"text-primary\"><b>CONSTRUÇÃO DE MORADIA&nbsp;</b></a>",
+                "caption": "<a href=\"page28.html\" class=\"text-primary\"><b>CONSTRUÇÃO DE MORADIA&nbsp;</b></a>",
                 "active": true
               },
               {
@@ -511,7 +511,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/4-min-3-2000x1333-800x533.png",
                 "image": "@PROJECT_PATH@/assets/images/4-min-3-2000x1333.png",
-                "caption": "<a href=\"page30.html\" class=\"text-primary\"><b>ISOLAMENTO EXTERIOR ETICS</b></a>",
+                "caption": "<a href=\"page29.html\" class=\"text-primary\"><b>ISOLAMENTO EXTERIOR ETICS</b></a>",
                 "active": false
               }
             ]
@@ -3565,7 +3565,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
