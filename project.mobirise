@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Construções Izidoros",
-    "currentPage": "reconstrucao_moradia.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -10017,7 +10017,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/9-min-1400x933.png",
+              "src": "@PROJECT_PATH@/assets/images/4-min-1400x933.png",
               "link": "",
               "alt": "",
               "title": ""
